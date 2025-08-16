@@ -1,3 +1,2 @@
 .venv
-list_of_movies.pkl
-similarity.pkl
+*.pkl
